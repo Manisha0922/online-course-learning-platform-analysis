@@ -1,0 +1,201 @@
+Course_ID,Course_Name,Category,Platform,Difficulty_Level,Duration_Hours,Price_USD,Students_Enrolled,Rating_Out_of_5,Completion_Rate_Percent
+OC001,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Intermediate,5,52.24,1432,3.7,58.7
+OC002,Computer Networks,Cybersecurity,Coursera,Advanced,22,46.01,2314,3.3,40.0
+OC003,Mobile App Development,Mobile Development,Skillshare,Intermediate,21,38.52,722,4.6,62.6
+OC004,Data Science Fundamentals,Data Science,LinkedIn Learning,Beginner,7,30.24,3212,4.2,84.3
+OC005,Statistics for Data Science,Data Science,edX,Beginner,8,38.63,752,4.6,73.0
+OC006,Cybersecurity Fundamentals,Cybersecurity,Udemy,Beginner,4,22.86,969,4.2,80.3
+OC007,React Development,Web Development,Skillshare,Intermediate,8,20.54,569,4.0,65.6
+OC008,Machine Learning Basics,AI & Machine Learning,Coursera,Intermediate,18,56.09,632,4.5,41.1
+OC009,Machine Learning Basics,AI & Machine Learning,Skillshare,Beginner,7,11.43,892,4.2,61.5
+OC010,Java Programming,Programming,LinkedIn Learning,Beginner,10,31.28,1741,4.1,62.0
+OC011,SQL for Data Analysis,Data Science,Udemy,Beginner,9,18.99,1562,4.2,72.5
+OC012,UI/UX Design,Design,Coursera,Intermediate,11,41.41,819,4.6,72.1
+OC013,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Intermediate,15,44.6,2100,3.9,43.4
+OC014,Digital Marketing,Business,edX,Beginner,3,59.69,1875,3.6,70.1
+OC015,Mobile App Development,Mobile Development,Udemy,Intermediate,5,15.37,1343,4.6,55.9
+OC016,Computer Networks,Cybersecurity,Udemy,Beginner,8,29.72,4981,4.3,59.8
+OC017,React Development,Web Development,edX,Beginner,6,49.21,3612,3.8,58.9
+OC018,SQL for Data Analysis,Data Science,LinkedIn Learning,Intermediate,9,21.45,2240,4.6,71.3
+OC019,Power BI Essentials,Data Analytics,LinkedIn Learning,Beginner,2,13.88,903,3.6,61.8
+OC020,Database Management,Programming,Coursera,Intermediate,11,14.48,869,4.6,57.4
+OC021,Statistics for Data Science,Data Science,Skillshare,Beginner,5,30.95,1998,4.4,63.4
+OC022,Machine Learning Basics,AI & Machine Learning,LinkedIn Learning,Beginner,4,38.43,1283,4.0,68.6
+OC023,Digital Marketing,Business,LinkedIn Learning,Beginner,13,17.27,977,4.5,69.7
+OC024,Web Development,Web Development,LinkedIn Learning,Beginner,4,42.21,2159,3.9,74.4
+OC025,Deep Learning Introduction,AI & Machine Learning,Coursera,Beginner,7,32.23,1993,4.3,72.7
+OC026,Data Science Fundamentals,Data Science,Udemy,Intermediate,7,14.13,1979,4.1,71.2
+OC027,Power BI Essentials,Data Analytics,Coursera,Beginner,6,27.15,3050,4.0,58.3
+OC028,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,19,33.27,452,4.0,60.3
+OC029,Machine Learning Basics,AI & Machine Learning,Udemy,Intermediate,10,24.94,1004,3.1,56.4
+OC030,Deep Learning Introduction,AI & Machine Learning,edX,Beginner,11,36.46,1671,4.2,51.5
+OC031,Machine Learning Basics,AI & Machine Learning,edX,Intermediate,13,41.86,221,4.0,55.8
+OC032,Statistics for Data Science,Data Science,Skillshare,Advanced,14,30.72,1732,3.8,63.7
+OC033,React Development,Web Development,Coursera,Advanced,18,33.51,437,3.8,62.6
+OC034,Python for Beginners,Programming,Udemy,Beginner,13,16.32,2533,5.0,61.2
+OC035,Database Management,Programming,Coursera,Beginner,2,22.81,1990,4.0,74.2
+OC036,Mobile App Development,Mobile Development,edX,Beginner,6,45.77,926,3.8,72.3
+OC037,Java Programming,Programming,edX,Intermediate,17,61.17,789,3.7,56.4
+OC038,Power BI Essentials,Data Analytics,Coursera,Intermediate,9,33.76,1759,4.6,77.9
+OC039,Database Management,Programming,edX,Beginner,3,59.17,2351,4.0,64.9
+OC040,Python for Data Analysis,Data Science,Udemy,Intermediate,9,16.12,1861,4.1,67.5
+OC041,Cloud Computing,Cloud Computing,edX,Beginner,2,49.67,3131,3.3,65.4
+OC042,SQL for Data Analysis,Data Science,Coursera,Intermediate,5,53.03,633,4.6,60.9
+OC043,Statistics for Data Science,Data Science,edX,Intermediate,12,56.21,2444,4.0,75.4
+OC044,Database Management,Programming,Skillshare,Beginner,7,22.86,1628,4.4,73.2
+OC045,Python for Data Analysis,Data Science,Skillshare,Beginner,5,29.23,3139,3.7,67.1
+OC046,Digital Marketing,Business,Udemy,Intermediate,17,7.28,1966,3.6,52.8
+OC047,Web Development,Web Development,Udemy,Advanced,23,30.0,2721,4.1,71.4
+OC048,Database Management,Programming,Udemy,Intermediate,8,28.23,2714,4.1,71.9
+OC049,Statistics for Data Science,Data Science,Udemy,Intermediate,15,24.16,2141,3.9,55.6
+OC050,Excel for Business,Data Analytics,Skillshare,Intermediate,22,19.56,707,3.9,47.3
+OC051,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,3,31.31,2576,4.8,89.2
+OC052,Python for Data Analysis,Data Science,Skillshare,Beginner,5,27.32,1939,4.3,80.0
+OC053,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Beginner,12,36.24,2059,3.7,40.4
+OC054,Mobile App Development,Mobile Development,Udemy,Advanced,19,6.92,1086,4.8,65.0
+OC055,Python for Data Analysis,Data Science,edX,Intermediate,15,64.51,2940,3.9,63.2
+OC056,Data Science Fundamentals,Data Science,Udemy,Advanced,21,13.77,1477,4.7,54.8
+OC057,Machine Learning Basics,AI & Machine Learning,Skillshare,Intermediate,8,24.22,1164,3.2,53.0
+OC058,Java Programming,Programming,LinkedIn Learning,Advanced,16,31.79,2691,4.2,56.4
+OC059,Computer Networks,Cybersecurity,edX,Beginner,2,60.62,2182,4.6,72.7
+OC060,Java Programming,Programming,Coursera,Beginner,13,60.48,3611,4.5,74.0
+OC061,UI/UX Design,Design,edX,Intermediate,14,53.05,1626,4.3,40.0
+OC062,Computer Networks,Cybersecurity,edX,Beginner,3,27.05,453,4.4,66.3
+OC063,Computer Networks,Cybersecurity,Udemy,Intermediate,8,11.71,621,3.9,42.9
+OC064,Web Development,Web Development,Skillshare,Intermediate,17,37.73,2098,3.6,68.0
+OC065,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,2,28.7,3960,4.5,69.5
+OC066,Python for Data Analysis,Data Science,Skillshare,Beginner,7,34.11,2187,4.2,72.3
+OC067,React Development,Web Development,Skillshare,Beginner,8,16.95,2186,3.4,79.7
+OC068,SQL for Data Analysis,Data Science,Udemy,Intermediate,19,0.0,534,4.6,59.2
+OC069,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Intermediate,13,38.46,735,4.0,74.5
+OC070,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Intermediate,13,44.52,1293,4.0,66.5
+OC071,Machine Learning Basics,AI & Machine Learning,Skillshare,Intermediate,12,28.24,3077,3.3,63.7
+OC072,UI/UX Design,Design,Coursera,Intermediate,9,46.13,3548,4.0,59.5
+OC073,Machine Learning Basics,AI & Machine Learning,Coursera,Beginner,12,39.74,699,3.6,62.2
+OC074,SQL for Data Analysis,Data Science,Coursera,Beginner,2,37.79,2534,3.5,94.8
+OC075,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Advanced,13,12.07,3070,4.4,37.6
+OC076,Web Development,Web Development,Skillshare,Intermediate,15,11.11,1814,3.8,66.2
+OC077,Web Development,Web Development,Udemy,Beginner,11,16.73,745,4.2,76.6
+OC078,Web Development,Web Development,Coursera,Beginner,8,34.75,459,4.2,71.7
+OC079,Cloud Computing,Cloud Computing,Udemy,Beginner,2,21.23,4016,4.2,78.1
+OC080,Python for Beginners,Programming,LinkedIn Learning,Beginner,4,35.07,1002,5.0,72.9
+OC081,Mobile App Development,Mobile Development,LinkedIn Learning,Intermediate,19,39.92,2017,3.5,52.5
+OC082,Digital Marketing,Business,Udemy,Intermediate,11,43.63,2196,3.9,76.7
+OC083,Computer Networks,Cybersecurity,edX,Beginner,5,62.35,3242,4.3,52.5
+OC084,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Beginner,12,19.26,2305,4.9,64.9
+OC085,SQL for Data Analysis,Data Science,Udemy,Intermediate,13,21.05,1793,4.1,58.1
+OC086,Artificial Intelligence Basics,AI & Machine Learning,Skillshare,Beginner,8,20.97,314,4.6,70.5
+OC087,Web Development,Web Development,Udemy,Beginner,2,23.89,4533,4.7,59.1
+OC088,Python for Beginners,Programming,Coursera,Intermediate,19,40.01,3669,3.5,56.8
+OC089,UI/UX Design,Design,Coursera,Intermediate,12,47.54,974,3.6,69.9
+OC090,Python for Data Analysis,Data Science,Udemy,Beginner,8,13.55,2734,4.2,65.2
+OC091,Cybersecurity Fundamentals,Cybersecurity,Udemy,Intermediate,12,42.96,1456,3.5,83.1
+OC092,Web Development,Web Development,edX,Intermediate,9,65.89,1317,4.3,64.6
+OC093,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Intermediate,10,25.92,701,3.7,58.6
+OC094,Mobile App Development,Mobile Development,edX,Beginner,3,38.82,679,4.0,76.8
+OC095,Digital Marketing,Business,Udemy,Beginner,4,21.1,363,4.4,79.7
+OC096,Deep Learning Introduction,AI & Machine Learning,Udemy,Beginner,3,32.09,2313,5.0,69.1
+OC097,Python for Data Analysis,Data Science,Skillshare,Beginner,2,26.63,2153,4.5,75.9
+OC098,Cloud Computing,Cloud Computing,Coursera,Advanced,21,49.19,660,3.7,50.1
+OC099,Web Development,Web Development,edX,Beginner,11,46.78,2731,4.5,81.1
+OC100,Web Development,Web Development,Coursera,Intermediate,10,40.96,5206,3.3,56.9
+OC101,SQL for Data Analysis,Data Science,Skillshare,Intermediate,8,19.26,1994,5.0,56.8
+OC102,Deep Learning Introduction,AI & Machine Learning,Udemy,Intermediate,10,25.49,2081,3.9,67.8
+OC103,Mobile App Development,Mobile Development,edX,Beginner,5,41.05,1848,4.6,72.1
+OC104,Data Science Fundamentals,Data Science,Udemy,Intermediate,10,8.16,2221,4.0,70.2
+OC105,Deep Learning Introduction,AI & Machine Learning,edX,Intermediate,12,56.34,2216,4.1,57.4
+OC106,UI/UX Design,Design,Skillshare,Intermediate,8,33.27,1096,3.9,72.2
+OC107,Data Science Fundamentals,Data Science,LinkedIn Learning,Beginner,3,14.73,2238,4.8,63.1
+OC108,SQL for Data Analysis,Data Science,edX,Advanced,25,37.14,1152,4.8,54.1
+OC109,Machine Learning Basics,AI & Machine Learning,Coursera,Intermediate,15,33.48,1358,4.4,63.8
+OC110,Python for Data Analysis,Data Science,Udemy,Intermediate,16,17.34,1252,4.5,36.5
+OC111,Python for Data Analysis,Data Science,Skillshare,Beginner,4,35.8,2289,5.0,69.3
+OC112,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Beginner,11,26.28,1874,4.7,78.8
+OC113,Deep Learning Introduction,AI & Machine Learning,Coursera,Intermediate,11,29.33,558,4.3,83.7
+OC114,Java Programming,Programming,edX,Intermediate,12,56.28,523,4.5,74.2
+OC115,Power BI Essentials,Data Analytics,Skillshare,Beginner,3,32.03,4415,3.8,56.8
+OC116,Web Development,Web Development,Udemy,Beginner,10,13.05,2669,4.7,51.2
+OC117,Data Science Fundamentals,Data Science,edX,Advanced,22,43.59,473,3.8,42.4
+OC118,Excel for Business,Data Analytics,edX,Advanced,16,51.03,673,4.5,54.1
+OC119,Computer Networks,Cybersecurity,Skillshare,Intermediate,14,33.11,387,4.7,78.8
+OC120,React Development,Web Development,Skillshare,Beginner,5,17.89,3303,3.5,73.7
+OC121,Digital Marketing,Business,edX,Beginner,15,50.11,1255,4.6,63.2
+OC122,Cloud Computing,Cloud Computing,edX,Beginner,2,46.11,2542,4.6,71.7
+OC123,Excel for Business,Data Analytics,Skillshare,Beginner,6,22.95,1411,4.2,73.3
+OC124,React Development,Web Development,edX,Beginner,9,35.26,885,4.2,68.9
+OC125,Web Development,Web Development,edX,Advanced,20,51.38,1232,3.8,60.0
+OC126,Cybersecurity Fundamentals,Cybersecurity,edX,Intermediate,5,39.11,4527,4.2,59.8
+OC127,Python for Beginners,Programming,edX,Beginner,12,67.08,3374,4.7,70.7
+OC128,Database Management,Programming,LinkedIn Learning,Intermediate,18,32.83,1729,3.9,54.6
+OC129,Excel for Business,Data Analytics,edX,Intermediate,18,58.91,3178,4.2,64.2
+OC130,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Advanced,12,17.12,1301,4.0,52.7
+OC131,Digital Marketing,Business,LinkedIn Learning,Advanced,17,18.57,1129,4.5,41.0
+OC132,Statistics for Data Science,Data Science,edX,Intermediate,11,62.25,1862,3.9,76.1
+OC133,UI/UX Design,Design,LinkedIn Learning,Advanced,16,23.21,4755,5.0,72.8
+OC134,Web Development,Web Development,Udemy,Intermediate,14,21.2,1057,4.0,55.2
+OC135,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Beginner,6,0.0,1884,3.6,77.3
+OC136,Digital Marketing,Business,Udemy,Beginner,6,6.9,2315,4.4,80.4
+OC137,Python for Data Analysis,Data Science,Skillshare,Beginner,2,28.86,1551,4.3,72.4
+OC138,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Intermediate,10,28.84,1377,4.7,63.6
+OC139,Digital Marketing,Business,LinkedIn Learning,Beginner,7,32.5,2436,4.1,76.0
+OC140,Excel for Business,Data Analytics,LinkedIn Learning,Beginner,7,40.97,2037,3.6,79.4
+OC141,React Development,Web Development,LinkedIn Learning,Advanced,11,10.85,388,3.3,59.6
+OC142,React Development,Web Development,Skillshare,Beginner,5,16.56,2566,4.5,73.3
+OC143,SQL for Data Analysis,Data Science,Udemy,Intermediate,15,2.56,1540,3.9,68.8
+OC144,Machine Learning Basics,AI & Machine Learning,edX,Intermediate,7,66.17,1380,4.5,70.7
+OC145,Statistics for Data Science,Data Science,Coursera,Intermediate,15,53.03,940,3.6,40.2
+OC146,Data Science Fundamentals,Data Science,Skillshare,Intermediate,11,31.41,1238,3.6,59.2
+OC147,Deep Learning Introduction,AI & Machine Learning,Udemy,Beginner,7,17.95,2167,4.0,58.1
+OC148,Python for Beginners,Programming,LinkedIn Learning,Beginner,3,61.03,1212,4.4,55.1
+OC149,Machine Learning Basics,AI & Machine Learning,Coursera,Beginner,2,30.4,1841,4.3,57.1
+OC150,Machine Learning Basics,AI & Machine Learning,Skillshare,Intermediate,14,32.69,1320,4.3,72.8
+OC151,UI/UX Design,Design,Skillshare,Intermediate,15,39.17,1136,4.0,61.1
+OC152,Python for Beginners,Programming,LinkedIn Learning,Beginner,7,20.32,2064,3.7,53.1
+OC153,Mobile App Development,Mobile Development,Skillshare,Intermediate,13,22.79,2153,4.8,50.5
+OC154,React Development,Web Development,Skillshare,Beginner,2,18.15,1707,4.2,63.6
+OC155,Data Science Fundamentals,Data Science,LinkedIn Learning,Intermediate,15,50.69,724,4.5,64.9
+OC156,Web Development,Web Development,Udemy,Intermediate,11,6.34,2572,3.7,43.0
+OC157,Java Programming,Programming,Skillshare,Advanced,20,26.42,1396,3.9,32.4
+OC158,Artificial Intelligence Basics,AI & Machine Learning,Skillshare,Beginner,8,14.88,947,4.2,56.6
+OC159,Power BI Essentials,Data Analytics,Coursera,Beginner,8,22.03,2489,4.1,62.9
+OC160,Python for Beginners,Programming,LinkedIn Learning,Beginner,11,19.79,4283,4.2,78.5
+OC161,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Beginner,6,9.13,1082,4.5,79.9
+OC162,Java Programming,Programming,Skillshare,Beginner,5,47.95,684,3.7,62.2
+OC163,Mobile App Development,Mobile Development,Skillshare,Beginner,9,5.55,2585,4.9,75.5
+OC164,Excel for Business,Data Analytics,Skillshare,Advanced,23,3.97,853,3.4,53.5
+OC165,React Development,Web Development,edX,Intermediate,17,36.2,1005,3.8,69.0
+OC166,SQL for Data Analysis,Data Science,Skillshare,Intermediate,12,15.95,1706,4.7,62.6
+OC167,Java Programming,Programming,Skillshare,Advanced,17,37.2,1145,3.7,59.8
+OC168,Python for Beginners,Programming,Skillshare,Advanced,15,24.21,3446,4.5,58.2
+OC169,Web Development,Web Development,Coursera,Intermediate,7,43.55,890,4.3,60.0
+OC170,Java Programming,Programming,edX,Beginner,4,33.5,3434,4.3,73.3
+OC171,Cybersecurity Fundamentals,Cybersecurity,edX,Intermediate,2,42.24,1082,4.2,55.8
+OC172,Database Management,Programming,edX,Beginner,12,40.35,1715,4.2,70.8
+OC173,Excel for Business,Data Analytics,LinkedIn Learning,Advanced,13,51.16,380,4.3,74.3
+OC174,Digital Marketing,Business,Udemy,Beginner,6,6.93,1901,3.8,72.2
+OC175,UI/UX Design,Design,edX,Intermediate,18,53.96,2067,4.0,57.7
+OC176,Database Management,Programming,edX,Beginner,8,48.92,3486,3.7,62.7
+OC177,Power BI Essentials,Data Analytics,Udemy,Intermediate,8,7.58,651,4.3,72.6
+OC178,Database Management,Programming,Skillshare,Intermediate,8,21.87,1186,3.6,65.2
+OC179,Database Management,Programming,edX,Beginner,5,32.14,2579,4.4,65.5
+OC180,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Advanced,13,36.34,2325,4.1,62.2
+OC181,Excel for Business,Data Analytics,edX,Intermediate,10,45.69,762,3.2,70.8
+OC182,React Development,Web Development,LinkedIn Learning,Beginner,2,24.49,2646,4.4,72.1
+OC183,Database Management,Programming,LinkedIn Learning,Beginner,3,39.36,1629,3.8,81.9
+OC184,Python for Beginners,Programming,Skillshare,Intermediate,15,26.11,1327,3.9,50.1
+OC185,Statistics for Data Science,Data Science,edX,Beginner,8,44.88,2021,4.0,64.2
+OC186,Cloud Computing,Cloud Computing,Udemy,Beginner,12,14.4,1855,4.1,67.2
+OC187,Cybersecurity Fundamentals,Cybersecurity,edX,Intermediate,9,43.48,981,3.9,57.6
+OC188,Data Science Fundamentals,Data Science,LinkedIn Learning,Intermediate,14,21.95,1779,4.1,68.9
+OC189,Java Programming,Programming,Skillshare,Intermediate,13,36.96,1559,3.4,64.7
+OC190,React Development,Web Development,LinkedIn Learning,Beginner,8,31.21,1650,4.3,65.8
+OC191,Database Management,Programming,LinkedIn Learning,Beginner,5,31.85,427,4.3,55.3
+OC192,Cybersecurity Fundamentals,Cybersecurity,Coursera,Beginner,7,29.2,4375,3.3,66.7
+OC193,Power BI Essentials,Data Analytics,Udemy,Advanced,24,21.59,7240,4.3,58.7
+OC194,Digital Marketing,Business,Skillshare,Beginner,2,39.87,2477,3.8,72.4
+OC195,Excel for Business,Data Analytics,LinkedIn Learning,Beginner,8,23.82,2501,3.9,73.1
+OC196,React Development,Web Development,Skillshare,Advanced,25,13.26,2859,4.3,48.7
+OC197,SQL for Data Analysis,Data Science,LinkedIn Learning,Beginner,7,46.72,2162,4.5,70.7
+OC198,React Development,Web Development,edX,Advanced,20,35.6,1191,4.0,67.7
+OC199,Digital Marketing,Business,Udemy,Intermediate,5,24.99,4986,3.5,56.6
+OC200,Python for Beginners,Programming,Coursera,Intermediate,10,41.58,2829,4.1,67.5
